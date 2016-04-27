@@ -1,0 +1,7 @@
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1 tvg-logo="http://lacallemusical.net/wp-content/uploads/2013/02/antenalatina.jpg" Antena Latina 7
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1 tvg-logo="" 
